@@ -14,9 +14,10 @@ No build step, external fonts, analytics or third-party media embeds.
 Open `index.html` directly, or serve this folder with a static HTTP server
 to test media playback.
 
-Contact uses WhatsApp and telephone links, without an email address in the
-page source. There is no server-side form; GitHub Pages does not process
-form submissions.
+Contact uses a WhatsApp link, without a displayed telephone number or an
+email address in the page source. The WhatsApp URL still contains the
+telephone number. There is no server-side form; GitHub Pages does not
+process form submissions.
 
 ## Media
 
