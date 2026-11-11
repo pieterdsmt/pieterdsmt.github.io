@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="15 16 270 87" fill="none">
+  <title>Rowmen, getekend woordmerk met drie roestkleurige kapelbogen in de m</title>
+  <g stroke="#383333" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-width="2.1">
+      <path d="M22 84L27 64L26 48L30 35L27 61C34 44 39 36 49 40L42 42"/>
+      <path d="M72 39C57 32 52 50 55 65C56 80 66 86 74 79C86 73 87 49 79 42C75 37 66 37 61 43"/>
+      <path d="M91 38L96 62L102 83L108 65L113 47L118 66L126 82L133 58L140 37"/>
+      <path d="M208 62L218 61L227 55C234 47 227 38 219 41C207 44 203 59 207 72C211 85 225 86 233 76"/>
+      <path d="M239 84L242 65L241 48L245 36L242 64C247 47 253 38 261 41C271 43 266 65 268 81L270 75"/>
+    </g>
+    <g stroke-width="1.15" opacity=".85">
+      <path d="M25 86L24 75L29 57L28 38M30 59L36 45L47 38M22 80L26 62"/>
+      <path d="M70 41C57 38 55 53 58 68C61 81 72 83 79 70C87 54 80 35 68 37M62 44C55 55 60 75 67 79M75 41L81 51"/>
+      <path d="M94 41L96 58L104 79L110 60L113 51M116 51L122 72L127 79L136 48M100 77L103 85M129 75L137 53"/>
+      <path d="M210 59C218 62 230 52 227 46C221 34 207 49 208 64M209 72C215 82 226 83 234 78M213 63L223 58"/>
+      <path d="M241 83L244 63L244 41M246 59C251 45 259 39 265 46L266 62L265 85M269 60L267 74"/>
+    </g>
+    <g stroke-width=".65" opacity=".55">
+      <path d="M20 78L23 67M32 49L40 40M52 56L54 68M63 84L73 82M86 46L85 59M95 50L99 70M108 74L111 64M121 61L125 73M132 71L137 58M204 52L205 66M214 86L227 82M237 78L240 60M250 45L256 40M272 49L271 62"/>
+    </g>
+  </g>
+  <g stroke="#b3694f" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M146 83L148 45C149 23 164 22 165 45L165 82M165 47C166 23 181 22 182 45L182 82M182 47C183 23 198 22 199 45L199 82" stroke-width="2.3"/>
+    <path d="M149 80L151 45C152 28 161 27 162 45M168 79L168 45C169 28 178 27 179 45M185 79L185 45C186 28 195 27 196 45" stroke-width="1" opacity=".75"/>
+  </g>
+  <path d="M30 96L69 92L103 94L150 93L189 95L232 91L271 90M52 98L94 96L123 97" stroke="#a2675c" stroke-width=".9" stroke-linecap="round" opacity=".7"/>
+</svg>
